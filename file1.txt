@@ -1,2 +1,3 @@
 This is my test file.
 It is testing git
+2nd test.
