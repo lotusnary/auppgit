@@ -4,3 +4,5 @@ It is testing git
 We just test someting about Merge Conflict
 Adding by user1
 Push again without -f
+Check again
+**Merge conflict
