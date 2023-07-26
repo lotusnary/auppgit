@@ -3,3 +3,4 @@ It is testing git
 2nd test.
 We just test someting about Merge Conflict
 Adding by user1
+Push again without -f
